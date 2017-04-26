@@ -12,4 +12,4 @@ print("Hello, CIEC!")
 
 
 print("Hello, CIEC!")
-
+print("今天是4月26日")
